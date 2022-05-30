@@ -1,0 +1,7 @@
+2022-05-30 Apunts
+
+ODM: Como ORM (que era para BD relacionales), mapea objetos.
+Similar al sequelize, para mongodb
+
+Ayuda al tipado de datos, esquematizar modelos, validar...
+
